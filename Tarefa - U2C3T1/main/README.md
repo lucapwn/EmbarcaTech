@@ -52,7 +52,7 @@ Com o Git instalado, clone o repositório da aplicação:
 foo@bar:~$ git clone https://github.com/lucapwn/EmbarcaTech.git
 ~~~
 
-Com o Python instalado, navegue até o diretório ```/api``` e crie um ambiente virtual:
+Com o Python instalado, navegue até o diretório ```Tarefa - U2C3T1/main/api``` e crie um ambiente virtual:
 
 ~~~console
 foo@bar:~$ python -m venv .venv
